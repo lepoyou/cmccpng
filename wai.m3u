@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="02000006000000052018092799000002" tvg-name="广东珠江超清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000006000000052015070399000004.png" tvg-channelnum="503" group-title="广东",广东珠江超清
+http://192.168.30.1:8686/rtp/239.10.0.62:1025
+#EXTINF:-1 tvg-id="02000006000000052023072599000001" tvg-name="岭南戏曲高清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/c0d85604-df4c-4437-9d20-79ef85024907.png" tvg-channelnum="316" group-title="广东",岭南戏曲高清
+http://192.168.30.1:8686/rtp/239.11.0.180:1025
 #EXTINF:-1 tvg-id="02000004000000052015081800000001" tvg-name="广东卫视超清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000001000000050000000000000001.png" tvg-channelnum="500" group-title="广东",广东卫视超清
 http://192.168.30.1:8686/rtp/239.10.0.111:1025
 #EXTINF:-1 tvg-id="02000004000000052015081800000003" tvg-name="广东体育超清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000006000000052015070399000001.png" tvg-channelnum="502" group-title="广东",广东体育超清
 http://192.168.30.1:8686/rtp/239.10.0.113:1025
-#EXTINF:-1 tvg-id="02000006000000052018092799000002" tvg-name="广东珠江超清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000006000000052015070399000004.png" tvg-channelnum="503" group-title="广东",广东珠江超清
-http://192.168.30.1:8686/rtp/239.10.0.62:1025
 #EXTINF:-1 tvg-id="02000001000000050000000000000374" tvg-name="广东卫视高清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000001000000050000000000000001.png" tvg-channelnum="300" group-title="广东",广东卫视高清
 http://192.168.30.1:8686/rtp/239.10.0.111:1025
 #EXTINF:-1 tvg-id="02000001000000050000000000000375" tvg-name="经济科教高清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/d7b04ea3-1b3c-451d-9972-2d640afb3ec5.png" tvg-channelnum="301" group-title="广东",经济科教高清
@@ -25,8 +27,7 @@ http://192.168.30.1:8686/rtp/239.11.0.81:1025
 http://192.168.30.1:8686/rtp/239.10.0.199:1025
 #EXTINF:-1 tvg-id="02000006000000052020121799000002" tvg-name="嘉佳卡通高清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/77cfcb9a-d7fb-4d83-8ef5-ddcf3c8c9a5d.png" tvg-channelnum="310" group-title="广东",嘉佳卡通高清
 http://192.168.30.1:8686/rtp/239.10.0.200:1025
-#EXTINF:-1 tvg-id="02000006000000052023072599000001" tvg-name="岭南戏曲高清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/c0d85604-df4c-4437-9d20-79ef85024907.png" tvg-channelnum="316" group-title="广东",岭南戏曲高清
-http://192.168.30.1:8686/rtp/239.11.0.180:1025
+
 #EXTINF:-1 tvg-id="02000001000000050000000000000001" tvg-name="广东卫视" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000001000000050000000000000001.png" tvg-channelnum="001" group-title="卫视","广东",广东卫视
 http://192.168.30.1:8686/rtp/239.10.0.111:1025
 #EXTINF:-1 tvg-id="02000001000000050000000000000002" tvg-name="广东珠江" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000006000000052015070399000004.png" tvg-channelnum="002" group-title="广东",广东珠江
@@ -429,4 +430,5 @@ http://192.168.30.1:8686/rtp/239.10.0.126:1025
 http://192.168.30.1:8686/rtp/239.10.0.182:1025
 #EXTINF:-1 tvg-id="02000004000000052015081800000002" tvg-name="经济科教超清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/2019121315555447942886.png" tvg-channelnum="501" group-title="超清",经济科教超清
 http://192.168.30.1:8686/rtp/239.10.0.112:1025
+
 
