@@ -51,12 +51,8 @@ http://192.168.30.1:8686/rtp/239.11.0.79:1025
 http://192.168.30.1:8686/rtp/239.11.0.81:1025
 #EXTINF:-1 tvg-id="02000001000000050000000000000006" tvg-name="嘉佳卡通" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/70f10dac-2507-40db-8f90-2e2de344db49.png" tvg-channelnum="012" group-title="少儿","广东",嘉佳卡通
 http://192.168.30.1:8686/rtp/239.10.0.200:1025
-#EXTINF:-1 tvg-id="02000001000000050000000000000382" tvg-name="南方购物-精选" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000001000000050000000000000389.png" tvg-channelnum="016" group-title="高清",南方购物-精选
-http://192.168.30.1:8686/rtp/239.11.0.95:1025
 #EXTINF:-1 tvg-id="02000001000000050000000000000387" tvg-name="移动频道" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/2019121315594287846170.png" tvg-channelnum="018" group-title="广东",移动频道
 http://192.168.30.1:8686/rtp/239.10.0.143:1025
-#EXTINF:-1 tvg-id="02000001000000050000000000000389" tvg-name="南方购物" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000001000000050000000000000389.png" tvg-channelnum="091" group-title="广东","长者",南方购物
-http://192.168.30.1:8686/rtp/239.10.0.126:1025
 #EXTINF:-1 tvg-id="02000001000000050000000000000385" tvg-name="岭南戏曲" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000001000000050000000000000385.png" tvg-channelnum="093" group-title="广东","长者",岭南戏曲
 http://192.168.30.1:8686/rtp/239.11.0.180:1025
 #EXTINF:-1 tvg-id="02000001000000050000000000000381" tvg-name="现代教育" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000001000000050000000000000381.png" tvg-channelnum="095" group-title="广东",现代教育
@@ -425,7 +421,12 @@ http://192.168.30.1:8686/rtp/239.10.0.87:1025
 http://192.168.30.1:8686/rtp/239.10.0.88:1025
 #EXTINF:-1 tvg-id="02000006000000052019012399000003" tvg-name="咪咕-高清赛事3" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/7cbaa23f-4c4c-4969-8b8f-5a031816e4cd.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事3
 http://192.168.30.1:8686/rtp/239.10.0.89:1025
+#EXTINF:-1 tvg-id="02000001000000050000000000000382" tvg-name="南方购物-精选" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000001000000050000000000000389.png" tvg-channelnum="016" group-title="乱七八糟",南方购物-精选
+http://192.168.30.1:8686/rtp/239.11.0.95:1025
+#EXTINF:-1 tvg-id="02000001000000050000000000000389" tvg-name="南方购物" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000001000000050000000000000389.png" tvg-channelnum="091" group-title="乱七八糟",南方购物
+http://192.168.30.1:8686/rtp/239.10.0.126:1025
 #EXTINF:-1 tvg-id="02000006000000052015012700000001" tvg-name="山东卫视超清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/6a8aa8d9-03d0-4019-aed8-4bfde24a19c4.png" tvg-channelnum="528" group-title="超清",山东卫视超清
 http://192.168.30.1:8686/rtp/239.10.0.182:1025
 #EXTINF:-1 tvg-id="02000004000000052015081800000002" tvg-name="经济科教超清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/2019121315555447942886.png" tvg-channelnum="501" group-title="超清",经济科教超清
 http://192.168.30.1:8686/rtp/239.10.0.112:1025
+
