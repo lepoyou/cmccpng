@@ -341,84 +341,6 @@ http://192.168.30.1:8686/rtp/239.11.0.67:1025
 http://192.168.30.1:8686/rtp/239.11.0.68:1025
 #EXTINF:-1 tvg-id="02000006000000052021062199000001" tvg-name="早期教育高清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/02000006000000052021062199000001.png" tvg-channelnum="842" group-title="少儿",早期教育高清
 http://192.168.30.1:8686/rtp/239.11.0.100:1025
-#EXTINF:-1 tvg-id="02000006000000052024060699000002" tvg-name="睛彩广场舞" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/5ffaa2e2-ba66-4470-be81-c01ca4543dd5.png" tvg-channelnum="9999" group-title="高清",睛彩广场舞
-http://192.168.30.1:8686/rtp/239.11.0.184:1025
-#EXTINF:-1 tvg-id="02000006000000052024060699000001" tvg-name="睛彩竞技" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/e7a5d778-62fd-49fa-9846-32624e834cda.png" tvg-channelnum="9999" group-title="高清",睛彩竞技
-http://192.168.30.1:8686/rtp/239.11.0.183:1025
-#EXTINF:-1 tvg-id="02000006000000052019120299000005" tvg-name="咪咕-高清赛事27" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/8267d80d-712f-40bb-86f3-db4b7f6e78f2.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事27
-http://192.168.30.1:8686/rtp/239.11.0.22:1025
-#EXTINF:-1 tvg-id="02000006000000052019120299000004" tvg-name="咪咕-高清赛事26" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/1efbdb73-9bd0-4fa0-8e15-37b7131b9aaf.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事26
-http://192.168.30.1:8686/rtp/239.11.0.21:1025
-#EXTINF:-1 tvg-id="02000006000000052019120299000003" tvg-name="咪咕-高清赛事25" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/11cbd2ec-ab0e-4459-955b-a0b7b2a793fe.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事25
-http://192.168.30.1:8686/rtp/239.11.0.20:1025
-#EXTINF:-1 tvg-id="02000006000000052019120299000002" tvg-name="咪咕-高清赛事24" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/e329d6fd-9a5f-4a52-a5ae-46e4be448138.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事24
-http://192.168.30.1:8686/rtp/239.11.0.19:1025
-#EXTINF:-1 tvg-id="02000006000000052019120299000001" tvg-name="咪咕-高清赛事23" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/f04bd492-2ee0-4aeb-8973-9985c1b33f44.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事23
-http://192.168.30.1:8686/rtp/239.11.0.18:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000010" tvg-name="咪咕-高清赛事19" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/90141c62-94a8-486a-9dc9-54541db69b29.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事19
-http://192.168.30.1:8686/rtp/239.11.0.10:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000009" tvg-name="咪咕-高清赛事18" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/c6a32a6f-223f-4626-8d5f-89b5093c55b4.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事18
-http://192.168.30.1:8686/rtp/239.11.0.9:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000014" tvg-name="咪咕-高清赛事000" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/5e6b93a6-372d-4dc0-978c-baf8b58114b0.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事000
-http://192.168.30.1:8686/rtp/239.11.0.14:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000013" tvg-name="咪咕-高清赛事22" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/47105094-399a-47d4-8374-36d80055ed30.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事22
-http://192.168.30.1:8686/rtp/239.11.0.13:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000012" tvg-name="咪咕-高清赛事21" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/7fdddc17-af2b-4d85-8288-65178f9cdc9d.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事21
-http://192.168.30.1:8686/rtp/239.11.0.12:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000011" tvg-name="咪咕-高清赛事20" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/7493658f-e6fa-47a3-b017-fd08f21ae5dc.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事20
-http://192.168.30.1:8686/rtp/239.11.0.11:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000008" tvg-name="咪咕-高清赛事17" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/d622d3c7-0a26-4ae9-a3e3-49269885338e.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事17
-http://192.168.30.1:8686/rtp/239.11.0.8:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000007" tvg-name="咪咕-高清赛事16" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/304c9f3a-5e06-4460-8ef0-c3a9a446c8d3.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事16
-http://192.168.30.1:8686/rtp/239.11.0.7:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000006" tvg-name="咪咕-高清赛事15" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/8c90db17-8b5d-49d2-8ac8-70b7b17f8f6e.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事15
-http://192.168.30.1:8686/rtp/239.11.0.6:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000005" tvg-name="咪咕-高清赛事14" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/98003d5b-15df-462e-813b-bdd1c02adab3.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事14
-http://192.168.30.1:8686/rtp/239.11.0.5:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000004" tvg-name="咪咕-高清赛事13" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/d821ee0a-6525-47cc-8926-87768b39ff17.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事13
-http://192.168.30.1:8686/rtp/239.11.0.4:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000003" tvg-name="咪咕-高清赛事12" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/d37eaa80-7434-4298-998a-0dce2801ca5c.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事12
-http://192.168.30.1:8686/rtp/239.11.0.3:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000002" tvg-name="咪咕-高清赛事11" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/ec25efa5-a5e5-4cf2-b69d-842fe55dd3f7.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事11
-http://192.168.30.1:8686/rtp/239.11.0.2:1025
-#EXTINF:-1 tvg-id="02000006000000052019081399000001" tvg-name="咪咕-高清赛事10" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/153c59b5-e211-4cb7-858c-10f4ed00f4e2.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事10
-http://192.168.30.1:8686/rtp/239.11.0.1:1025
-#EXTINF:-1 tvg-id="02000006000000052019052899000005" tvg-name="咪咕-高清赛事9" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/1e1be142-a93d-40dc-ad9b-e13a76f403d0.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事9
-http://192.168.30.1:8686/rtp/239.10.0.252:1025
-#EXTINF:-1 tvg-id="02000006000000052019052899000004" tvg-name="咪咕-高清赛事8" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/96c2bb11-dc25-4064-8991-7e80f9cd0752.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事8
-http://192.168.30.1:8686/rtp/239.10.0.251:1025
-#EXTINF:-1 tvg-id="02000006000000052019052899000003" tvg-name="咪咕-高清赛事7" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/8be1b856-a715-4068-bf22-f764aa0e0ae2.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事7
-http://192.168.30.1:8686/rtp/239.10.0.250:1025
-#EXTINF:-1 tvg-id="02000006000000052019052899000002" tvg-name="咪咕-高清赛事6" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/c8571e8e-eecd-4c3e-a46a-651a68190d72.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事6
-http://192.168.30.1:8686/rtp/239.10.0.249:1025
-#EXTINF:-1 tvg-id="02000006000000052019052899000001" tvg-name="咪咕-高清赛事5" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/0aea979f-fbf6-4585-8963-93bb521c9520.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事5
-http://192.168.30.1:8686/rtp/239.10.0.248:1025
-#EXTINF:-1 tvg-id="02000006000000052019052799000001" tvg-name="咪咕-高清赛事4" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/6148f633-fe92-4c7d-a48c-652ac64b19ef.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事4
-http://192.168.30.1:8686/rtp/239.10.0.247:1025
-#EXTINF:-1 tvg-id="02000006000000052018091799000002" tvg-name="移动咪咕五大联赛4K-2" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/b2a8229e-fe95-44ee-abe3-765c936e93ec.png" tvg-channelnum="9999" group-title="高清",移动咪咕五大联赛4K-2
-http://192.168.30.1:8686/rtp/239.10.0.69:1025
-#EXTINF:-1 tvg-id="02000006000000052018091799000001" tvg-name="咪咕五大联赛4K-1" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/16589d72-76ef-42ed-a96e-c6abaea6f911.png" tvg-channelnum="9999" group-title="高清",咪咕五大联赛4K-1
-http://192.168.30.1:8686/rtp/239.10.0.68:1025
-#EXTINF:-1 tvg-id="02000006000000052019021499000001" tvg-name="百视通高清直播室101" tvg-logo="" tvg-channelnum="0" group-title="高清",百视通高清直播室101
-http://192.168.30.1:8686/rtp/239.10.0.90:1025
-#EXTINF:-1 tvg-id="02000006000000052019021499000002" tvg-name="百视通高清直播室102" tvg-logo="" tvg-channelnum="" group-title="高清",百视通高清直播室102
-http://192.168.30.1:8686/rtp/239.10.0.91:1025
-#EXTINF:-1 tvg-id="02000006000000052019021499000007" tvg-name="百视通高清直播室107" tvg-logo="" tvg-channelnum="" group-title="高清",百视通高清直播室107
-http://192.168.30.1:8686/rtp/239.10.0.96:1025
-#EXTINF:-1 tvg-id="02000006000000052019021499000006" tvg-name="百视通高清直播室106" tvg-logo="" tvg-channelnum="" group-title="高清",百视通高清直播室106
-http://192.168.30.1:8686/rtp/239.10.0.95:1025
-#EXTINF:-1 tvg-id="02000006000000052019021499000005" tvg-name="百视通高清直播室105" tvg-logo="" tvg-channelnum="" group-title="高清",百视通高清直播室105
-http://192.168.30.1:8686/rtp/239.10.0.94:1025
-#EXTINF:-1 tvg-id="02000006000000052019021499000004" tvg-name="百视通高清直播室104" tvg-logo="" tvg-channelnum="" group-title="高清",百视通高清直播室104
-http://192.168.30.1:8686/rtp/239.10.0.93:1025
-#EXTINF:-1 tvg-id="02000006000000052019021499000003" tvg-name="百视通高清直播室103" tvg-logo="" tvg-channelnum="" group-title="高清",百视通高清直播室103
-http://192.168.30.1:8686/rtp/239.10.0.92:1025
-#EXTINF:-1 tvg-id="02000006000000052019012399000001" tvg-name="咪咕-高清赛事1" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/737725d3-9fb5-4b99-a480-e2a781fffd4f.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事1
-http://192.168.30.1:8686/rtp/239.10.0.87:1025
-#EXTINF:-1 tvg-id="02000006000000052019012399000002" tvg-name="咪咕-高清赛事2" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/e13c1fbd-cd8e-4199-a8fb-ec7653ec067d.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事2
-http://192.168.30.1:8686/rtp/239.10.0.88:1025
-#EXTINF:-1 tvg-id="02000006000000052019012399000003" tvg-name="咪咕-高清赛事3" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/7cbaa23f-4c4c-4969-8b8f-5a031816e4cd.png" tvg-channelnum="9999" group-title="高清",咪咕-高清赛事3
-http://192.168.30.1:8686/rtp/239.10.0.89:1025
 #EXTINF:-1 tvg-id="02000006000000052025072499000001" tvg-name="西藏卫视高清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/12_67eaf03d-a5a3-4d01-a7df-97be931ef42b.png" tvg-channelnum="436" group-title="卫视",西藏卫视高清
 http://192.168.30.1:8686/rtp/239.11.0.196:1025
 #EXTINF:-1 tvg-id="02000006000000052025072499000002" tvg-name="新疆卫视高清" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/12_6570f1f5-29ed-48fb-9dac-69332150536d.png" tvg-channelnum="437" group-title="卫视",新疆卫视高清
@@ -429,3 +351,81 @@ http://192.168.30.1:8686/rtp/239.11.0.198:1025
 http://192.168.30.1:8686/rtp/239.11.0.199:1025
 #EXTINF:-1 tvg-id="02000006000000052025061699000005" tvg-name="深圳卫视4k超高清25p" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/12_de3cf26a-21db-4914-be32-dc25eea68bf3.png" tvg-channelnum="543" group-title="高清",深圳卫视4k超高清25p
 http://192.168.30.1:8686/rtp/239.11.0.195:1025
+#EXTINF:-1 tvg-id="02000006000000052024060699000002" tvg-name="睛彩广场舞" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/5ffaa2e2-ba66-4470-be81-c01ca4543dd5.png" tvg-channelnum="9999" group-title="乱七八糟",睛彩广场舞
+http://192.168.30.1:8686/rtp/239.11.0.184:1025
+#EXTINF:-1 tvg-id="02000006000000052024060699000001" tvg-name="睛彩竞技" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/e7a5d778-62fd-49fa-9846-32624e834cda.png" tvg-channelnum="9999" group-title="乱七八糟",睛彩竞技
+http://192.168.30.1:8686/rtp/239.11.0.183:1025
+#EXTINF:-1 tvg-id="02000006000000052019120299000005" tvg-name="咪咕-高清赛事27" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/8267d80d-712f-40bb-86f3-db4b7f6e78f2.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事27
+http://192.168.30.1:8686/rtp/239.11.0.22:1025
+#EXTINF:-1 tvg-id="02000006000000052019120299000004" tvg-name="咪咕-高清赛事26" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/1efbdb73-9bd0-4fa0-8e15-37b7131b9aaf.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事26
+http://192.168.30.1:8686/rtp/239.11.0.21:1025
+#EXTINF:-1 tvg-id="02000006000000052019120299000003" tvg-name="咪咕-高清赛事25" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/11cbd2ec-ab0e-4459-955b-a0b7b2a793fe.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事25
+http://192.168.30.1:8686/rtp/239.11.0.20:1025
+#EXTINF:-1 tvg-id="02000006000000052019120299000002" tvg-name="咪咕-高清赛事24" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/e329d6fd-9a5f-4a52-a5ae-46e4be448138.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事24
+http://192.168.30.1:8686/rtp/239.11.0.19:1025
+#EXTINF:-1 tvg-id="02000006000000052019120299000001" tvg-name="咪咕-高清赛事23" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/f04bd492-2ee0-4aeb-8973-9985c1b33f44.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事23
+http://192.168.30.1:8686/rtp/239.11.0.18:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000010" tvg-name="咪咕-高清赛事19" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/90141c62-94a8-486a-9dc9-54541db69b29.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事19
+http://192.168.30.1:8686/rtp/239.11.0.10:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000009" tvg-name="咪咕-高清赛事18" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/c6a32a6f-223f-4626-8d5f-89b5093c55b4.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事18
+http://192.168.30.1:8686/rtp/239.11.0.9:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000014" tvg-name="咪咕-高清赛事000" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/5e6b93a6-372d-4dc0-978c-baf8b58114b0.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事000
+http://192.168.30.1:8686/rtp/239.11.0.14:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000013" tvg-name="咪咕-高清赛事22" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/47105094-399a-47d4-8374-36d80055ed30.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事22
+http://192.168.30.1:8686/rtp/239.11.0.13:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000012" tvg-name="咪咕-高清赛事21" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/7fdddc17-af2b-4d85-8288-65178f9cdc9d.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事21
+http://192.168.30.1:8686/rtp/239.11.0.12:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000011" tvg-name="咪咕-高清赛事20" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/7493658f-e6fa-47a3-b017-fd08f21ae5dc.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事20
+http://192.168.30.1:8686/rtp/239.11.0.11:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000008" tvg-name="咪咕-高清赛事17" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/d622d3c7-0a26-4ae9-a3e3-49269885338e.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事17
+http://192.168.30.1:8686/rtp/239.11.0.8:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000007" tvg-name="咪咕-高清赛事16" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/304c9f3a-5e06-4460-8ef0-c3a9a446c8d3.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事16
+http://192.168.30.1:8686/rtp/239.11.0.7:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000006" tvg-name="咪咕-高清赛事15" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/8c90db17-8b5d-49d2-8ac8-70b7b17f8f6e.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事15
+http://192.168.30.1:8686/rtp/239.11.0.6:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000005" tvg-name="咪咕-高清赛事14" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/98003d5b-15df-462e-813b-bdd1c02adab3.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事14
+http://192.168.30.1:8686/rtp/239.11.0.5:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000004" tvg-name="咪咕-高清赛事13" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/d821ee0a-6525-47cc-8926-87768b39ff17.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事13
+http://192.168.30.1:8686/rtp/239.11.0.4:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000003" tvg-name="咪咕-高清赛事12" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/d37eaa80-7434-4298-998a-0dce2801ca5c.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事12
+http://192.168.30.1:8686/rtp/239.11.0.3:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000002" tvg-name="咪咕-高清赛事11" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/ec25efa5-a5e5-4cf2-b69d-842fe55dd3f7.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事11
+http://192.168.30.1:8686/rtp/239.11.0.2:1025
+#EXTINF:-1 tvg-id="02000006000000052019081399000001" tvg-name="咪咕-高清赛事10" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/153c59b5-e211-4cb7-858c-10f4ed00f4e2.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事10
+http://192.168.30.1:8686/rtp/239.11.0.1:1025
+#EXTINF:-1 tvg-id="02000006000000052019052899000005" tvg-name="咪咕-高清赛事9" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/1e1be142-a93d-40dc-ad9b-e13a76f403d0.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事9
+http://192.168.30.1:8686/rtp/239.10.0.252:1025
+#EXTINF:-1 tvg-id="02000006000000052019052899000004" tvg-name="咪咕-高清赛事8" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/96c2bb11-dc25-4064-8991-7e80f9cd0752.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事8
+http://192.168.30.1:8686/rtp/239.10.0.251:1025
+#EXTINF:-1 tvg-id="02000006000000052019052899000003" tvg-name="咪咕-高清赛事7" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/8be1b856-a715-4068-bf22-f764aa0e0ae2.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事7
+http://192.168.30.1:8686/rtp/239.10.0.250:1025
+#EXTINF:-1 tvg-id="02000006000000052019052899000002" tvg-name="咪咕-高清赛事6" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/c8571e8e-eecd-4c3e-a46a-651a68190d72.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事6
+http://192.168.30.1:8686/rtp/239.10.0.249:1025
+#EXTINF:-1 tvg-id="02000006000000052019052899000001" tvg-name="咪咕-高清赛事5" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/0aea979f-fbf6-4585-8963-93bb521c9520.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事5
+http://192.168.30.1:8686/rtp/239.10.0.248:1025
+#EXTINF:-1 tvg-id="02000006000000052019052799000001" tvg-name="咪咕-高清赛事4" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/6148f633-fe92-4c7d-a48c-652ac64b19ef.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事4
+http://192.168.30.1:8686/rtp/239.10.0.247:1025
+#EXTINF:-1 tvg-id="02000006000000052018091799000002" tvg-name="移动咪咕五大联赛4K-2" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/b2a8229e-fe95-44ee-abe3-765c936e93ec.png" tvg-channelnum="9999" group-title="乱七八糟",移动咪咕五大联赛4K-2
+http://192.168.30.1:8686/rtp/239.10.0.69:1025
+#EXTINF:-1 tvg-id="02000006000000052018091799000001" tvg-name="咪咕五大联赛4K-1" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/16589d72-76ef-42ed-a96e-c6abaea6f911.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕五大联赛4K-1
+http://192.168.30.1:8686/rtp/239.10.0.68:1025
+#EXTINF:-1 tvg-id="02000006000000052019021499000001" tvg-name="百视通高清直播室101" tvg-logo="" tvg-channelnum="0" group-title="乱七八糟",百视通高清直播室101
+http://192.168.30.1:8686/rtp/239.10.0.90:1025
+#EXTINF:-1 tvg-id="02000006000000052019021499000002" tvg-name="百视通高清直播室102" tvg-logo="" tvg-channelnum="" group-title="乱七八糟",百视通高清直播室102
+http://192.168.30.1:8686/rtp/239.10.0.91:1025
+#EXTINF:-1 tvg-id="02000006000000052019021499000007" tvg-name="百视通高清直播室107" tvg-logo="" tvg-channelnum="" group-title="乱七八糟",百视通高清直播室107
+http://192.168.30.1:8686/rtp/239.10.0.96:1025
+#EXTINF:-1 tvg-id="02000006000000052019021499000006" tvg-name="百视通高清直播室106" tvg-logo="" tvg-channelnum="" group-title="乱七八糟",百视通高清直播室106
+http://192.168.30.1:8686/rtp/239.10.0.95:1025
+#EXTINF:-1 tvg-id="02000006000000052019021499000005" tvg-name="百视通高清直播室105" tvg-logo="" tvg-channelnum="" group-title="乱七八糟",百视通高清直播室105
+http://192.168.30.1:8686/rtp/239.10.0.94:1025
+#EXTINF:-1 tvg-id="02000006000000052019021499000004" tvg-name="百视通高清直播室104" tvg-logo="" tvg-channelnum="" group-title="乱七八糟",百视通高清直播室104
+http://192.168.30.1:8686/rtp/239.10.0.93:1025
+#EXTINF:-1 tvg-id="02000006000000052019021499000003" tvg-name="百视通高清直播室103" tvg-logo="" tvg-channelnum="" group-title="乱七八糟",百视通高清直播室103
+http://192.168.30.1:8686/rtp/239.10.0.92:1025
+#EXTINF:-1 tvg-id="02000006000000052019012399000001" tvg-name="咪咕-高清赛事1" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/737725d3-9fb5-4b99-a480-e2a781fffd4f.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事1
+http://192.168.30.1:8686/rtp/239.10.0.87:1025
+#EXTINF:-1 tvg-id="02000006000000052019012399000002" tvg-name="咪咕-高清赛事2" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/e13c1fbd-cd8e-4199-a8fb-ec7653ec067d.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事2
+http://192.168.30.1:8686/rtp/239.10.0.88:1025
+#EXTINF:-1 tvg-id="02000006000000052019012399000003" tvg-name="咪咕-高清赛事3" tvg-logo="https://gitdoc.v6.navy/https://raw.githubusercontent.com/lepoyou/cmccpng/refs/heads/main/img/7cbaa23f-4c4c-4969-8b8f-5a031816e4cd.png" tvg-channelnum="9999" group-title="乱七八糟",咪咕-高清赛事3
+http://192.168.30.1:8686/rtp/239.10.0.89:1025
